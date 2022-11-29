@@ -36,7 +36,7 @@
     "port": -1
   },
   "adminactivities": {
-    "ip": "https://cscn73030-adminprof-mocker.emil-h-harvey.workers.dev",
+    "ip": "https://cscn73030-adminstudent-mocker.emil-h-harvey.workers.dev",
     "port": 443
   }
 }
